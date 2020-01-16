@@ -35,5 +35,11 @@
   "bugs": {
     "url": "https://github.com/Ztalley13/userDirectory/issues"
   },
-  "homepage": "https://github.com/Ztalley13/userDirectory#readme"
+  "homepage": "https://github.com/Ztalley13/userDirectory#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.3.0"
+  }
 }
